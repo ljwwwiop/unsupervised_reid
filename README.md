@@ -25,3 +25,17 @@ CUDA_VISIBLE_DEVICES=0 python usl.py -b 64 -a resnet50 -d msmt17 --iters 400 --m
 CUDA_VISIBLE_DEVICES=0,1,2,3 python usl.py -b 256 -a resnet50 -d veri --iters 400 --momentum 0.1 --eps 0.7 --num-instances 16 --height 224 --width 224 --use-hard 
 CUDA_VISIBLE_DEVICES=0,1,2,3 python usl.py -b 256 -a resnet50 -d msmt17 --iters 400 --momentum 0.1 --eps 0.7 --num-instances 16 --use-hard 
 ```
+
+## Results
+
+- ResNet50 was used as our backbone network and the imagenet pre-trained model was loaded.
+- VeRi776.
+<p align="center">
+    <img src="figs/r2.jpg" />
+
+- MSMT17.
+<p align="center">
+    <img src="figs/r1.jpg" />
+    
+    
+    
