@@ -8,3 +8,8 @@
 
 <p align="center" >
     <img src="figs/f1.jpg" width="650" height="300" />
+
+- Innovation of Our Method.
+    
+<p align="center" >
+    <img src="figs/f2.jpg" width="400" height="400" />
