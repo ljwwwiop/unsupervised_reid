@@ -37,5 +37,10 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python usl.py -b 256 -a resnet50 -d msmt17 --iters 
 <p align="center">
     <img src="figs/r1.jpg" />
     
+## Acknowledgements
+---
     
+Acknowledgement to the following open source projects, we have listed them.
     
+- [deepcluster](https://github.com/facebookresearch/deepcluster)
+- [cluster-contrast-reid](https://github.com/alibaba/cluster-contrast-reid)
