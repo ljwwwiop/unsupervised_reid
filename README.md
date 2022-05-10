@@ -12,4 +12,4 @@
 - Innovation of Our Method.
     
 <p align="center" >
-    <img src="figs/f2.jpg" width="400" height="400" />
+    <img src="figs/f2.jpg" width="500" height="300" />
