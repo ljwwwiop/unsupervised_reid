@@ -12,5 +12,5 @@
 - Innovation of Our Method.
  
 <p align="center" >
-    <img src="figs/model.jpg" width="300" height="300" />
+    <img src="figs/inter-intra.jpg" width="300" height="300" />
 
