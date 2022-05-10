@@ -5,5 +5,5 @@
 ## Model
 
 <p align="center" >
-    <img src="figs/model.jpg" width="400" height="500" />
+    <img src="figs/model.jpg" width="300" height="200" />
 
