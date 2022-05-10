@@ -7,4 +7,4 @@
 - Our architecture consists of three modules: the backbone feature module, the cluster generation pseudo-labeling module, and cluster memory module.
 
 <p align="center" >
-    <img src="figs/f1.jpg" width="600" height="300" />
+    <img src="figs/f1.jpg" width="650" height="300" />
