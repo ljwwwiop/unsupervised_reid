@@ -36,7 +36,28 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python usl.py -b 256 -a resnet50 -d msmt17 --iters 
 - MSMT17.
 <p align="center">
     <img src="figs/r1.jpg" />
-    
+
+## Link
+- our paper [Exploiting Robust Memory Features for Unsupervised Reidentification](https://doi.org/10.1007/978-3-031-18910-4_52) 
+
+## references
+'''
+@InProceedings{10.1007/978-3-031-18910-4_52,
+author="Lian, Jiawei
+and Wang, Da-Han
+and Du, Xia
+and Wu, Yun
+and Zhu, Shunzhi",
+title="Exploiting Robust Memory Features for Unsupervised Reidentification",
+booktitle="Pattern Recognition and Computer Vision",
+year="2022",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="655--667",
+isbn="978-3-031-18910-4"
+}
+'''
+
 ## Acknowledgements
 ---
     
